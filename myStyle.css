@@ -1,0 +1,9 @@
+body {
+   
+    border: 2px solid rgb(2, 3, 3);
+    margin-top: 5pt;
+    margin-left:5%;
+    margin-right:5%;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    }
